@@ -15,7 +15,7 @@ nopCommerce runs on .NET Core 3.1 with an MS SQL 2012 (or higher) backend databa
 
 nopCommerce is cross-platform, and you can run it on Windows, Linux, or Mac.
 
-nopCommerce supports Docker and MySQL out of the box, so you can easily run nopCommerce on a Linux machine.
+nopCommerce supports Docker and MySQL out of the box, so you can easily run nopCommerce on a Linux machine
 
 
 ![Logo](https://www.nopcommerce.com/images/github/logos.png#v1)
